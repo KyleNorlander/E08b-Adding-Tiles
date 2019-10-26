@@ -17,6 +17,7 @@ bounce = 1.0
 radius = 12.018
 
 [node name="World" type="Node"]
+editor/display_folded = true
 
 [node name="Paddle" type="KinematicBody2D" parent="."]
 editor/display_folded = true
